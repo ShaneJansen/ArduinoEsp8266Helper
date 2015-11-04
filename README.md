@@ -2,4 +2,4 @@
 
 ### Overview ###
 
-This is a helper class for interacting with an ESP8266 via an Arduino
+This is a helper class for interacting with an ESP8266 via an Arduino.
